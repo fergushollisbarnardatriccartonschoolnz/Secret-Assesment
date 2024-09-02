@@ -5,3 +5,10 @@ html {
 p {
     color: white;
 }
+
+body {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(66, 66, 66);
+}
+
