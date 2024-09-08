@@ -1,5 +1,5 @@
 html {
-    background-color: black;
+    background-color: #e6e6e6;
 }
 
 p {
@@ -8,6 +8,9 @@ p {
 
 body {
     background-color: #c8c8c8;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: -16px;
 }
 
 header {
@@ -16,6 +19,7 @@ header {
 
 nav {
     background-color: #a1a1a1;
+    margin-top: -16px;
 }
 
 footer {
