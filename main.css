@@ -3,12 +3,21 @@ html {
 }
 
 p {
-    color: white;
+    color: black;
 }
 
 body {
-    border-radius: 5px;
-    border-style: solid;
-    border-color: rgb(66, 66, 66);
+    background-color: #c8c8c8;
 }
 
+header {
+    background-color: #7a7a7a;
+}
+
+nav {
+    background-color: #a1a1a1;
+}
+
+footer {
+    background-color: #e6e6e6;
+}
