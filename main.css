@@ -6,42 +6,56 @@ h1 {
     color: black;
     font-size: 51px;
     text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 h2 {
     color: black;
     font-size: 44px;
     text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 h3 {
     color: black;
     font-size: 38px;
     text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 h4 {
     color: black;
     font-size: 33px;
     text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 h5 {
     color: black;
     font-size: 29px;
     text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 h6 {
     color: black;
     font-size: 26px;
     text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 p {
     color: black;
     font-size: 24px;
     text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 body {
