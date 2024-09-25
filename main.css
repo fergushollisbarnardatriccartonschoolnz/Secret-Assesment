@@ -2,6 +2,16 @@ html {
     background-color: #e6e6e6;
 }
 
+hidden_link {
+    text-decoration-line: none;
+    color: black;
+}
+
+hidden_link a{
+    text-decoration-line: none;
+    color: black;
+}
+
 h1 {
     color: black;
     font-size: 51px;
@@ -86,3 +96,8 @@ img {
     width: 10%;
     height: 10%;
 }
+
+nav h5 {
+    margin-top: auto;
+}
+
